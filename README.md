@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vrunda Thakkar</h1>
-<h3 align="center">A passionate UI/UX designer and developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 
-- 🌱 I’m currently learning **Cybersecurity skills**
-
-- 💬 Ask me about **Figma,Webflow**
+- 🌱 I’m currently learning about **web3** & **cybersecurity**
 
 - 📫 How to reach me **vrundat919@gmail.com**
 
