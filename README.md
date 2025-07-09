@@ -2,58 +2,62 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Enthusiast;Cybersecurity+Explorer;UI%2FUX+Designer;Problem+Solver)
-  
-  <img src="https://komarev.com/ghpvc/?username=aslihira&label=Profile%20views&color=6366f1&style=flat" alt="Profile Views" />
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;IoT+Developer;Problem+Solver)
   
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer from India with a love for creating innovative solutions and exploring cutting-edge technologies. Currently diving deep into the fascinating worlds of **Web3** and **Cybersecurity** while building amazing user experiences.
+I'm a passionate developer from India with a love for creating innovative solutions and exploring cutting-edge technologies. Currently diving deep into **Cybersecurity** and **Full Stack Development** while building secure and scalable applications. I've also built IoT applications including smart home automation systems.
 
 ```python
 class VrundaThakkar:
     def __init__(self):
         self.name = "Vrunda Thakkar"
         self.location = "India 🇮🇳"
-        self.current_focus = ["Web3", "Cybersecurity", "Full Stack Development"]
-        self.interests = ["Blockchain", "DeFi", "UI/UX Design", "Cloud Computing"]
+        self.current_focus = ["Cybersecurity", "Full Stack Development", "IoT Development"]
+        self.interests = ["Ethical Hacking", "Smart Home Automation", "Cloud Computing"]
+        self.built = ["Smart Home Automation", "IoT Applications", "Full Stack Web Apps"]
         self.fun_fact = "I can watch TMKOC anytime, any day! 😄"
-        self.motto = "Code, Create, Innovate, Repeat!"
+        self.motto = "Code, Create, Secure, Repeat!"
     
     def current_status(self):
-        return "Building the future, one line of code at a time ⚡"
+        return "Building secure solutions, one line of code at a time ⚡"
 ```
 
 ## 🌟 What I'm Currently Up To
 
 - 🔐 **Cybersecurity**: Exploring ethical hacking, penetration testing, and security protocols
-- 🌐 **Web3 Development**: Learning Solidity, DApps, and blockchain technology
-- 💻 **Full Stack Projects**: Building scalable applications with modern tech stacks
-- 🎨 **UI/UX Design**: Creating intuitive and beautiful user interfaces
-- 📚 **Continuous Learning**: Always staying updated with the latest tech trends
+- 💻 **Full Stack Development**: Building secure and scalable web applications
+- 🏠 **IoT Development**: Creating smart home automation systems and IoT solutions
+- 🎨 **UI/UX Design**: Designing intuitive and secure user interfaces
+- 📚 **Continuous Learning**: Always staying updated with the latest security trends
 
 ## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,solidity" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap" />
+</p>
+
+### IoT & Hardware
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
 ### Databases & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,gcp,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,gcp,firebase" />
 </p>
 
-### Design & Tools
+### Security & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker" />
 </p>
 
 ## 📊 GitHub Analytics
@@ -67,37 +71,31 @@ class VrundaThakkar:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslihira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aslihira&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
 
-## 🔥 Current Projects & Learning
 
-### 🌐 Web3 Journey
-- 🪙 Building DeFi applications
-- 🔗 Smart contract development
-- 🎯 NFT marketplace exploration
-- 🌈 DAO governance systems
+## 🔥 Current Projects & Focus
 
-### 🔐 Cybersecurity Focus
+### 🔐 Cybersecurity Journey
 - 🛡️ Network security protocols
-- 🔍 Vulnerability assessment
-- 🐛 Bug bounty hunting
-- 🔒 Cryptographic implementations
+- 🔍 Vulnerability assessment and penetration testing
+- 🐛 Ethical hacking methodologies
+- 🔒 Secure coding practices
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aslihira&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+### 🏠 IoT & Smart Systems
+- 🏡 Smart home automation projects
+- 📱 IoT device integration
+- 🔌 Hardware-software interfacing
+- 📊 Real-time monitoring systems
+
+
 
 ## 🎯 Goals for 2025
 
-- [ ] Contribute to 50+ open source projects
-- [ ] Master advanced Web3 development
-- [ ] Obtain cybersecurity certifications
-- [ ] Build a successful SaaS product
-- [ ] Mentor 100+ developers in the community
+- [ ] Pursue ethical hacking and penetration testing
+- [ ] Master cybersecurity frameworks and protocols
+- [ ] Build secure full-stack applications
+- [ ] Contribute to cybersecurity open source projects
+- [ ] Develop expertise in network security
 
 ## 🌐 Connect With Me
 
