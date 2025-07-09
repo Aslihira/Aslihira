@@ -60,16 +60,7 @@ class VrundaThakkar:
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker" />
 </p>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aslihira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslihira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslihira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 
 
@@ -113,8 +104,8 @@ class VrundaThakkar:
 - 🎭 **TMKOC Superfan**: I can watch Taarak Mehta Ka Ooltah Chashmah anytime, anywhere!
 - 🌙 **Night Owl**: My most productive coding hours are between 10 PM - 2 AM
 - ☕ **Coffee Enthusiast**: Powered by coffee and curiosity
-- 🎮 **Gaming**: Love strategy games and puzzle-solving
-- 📚 **Bookworm**: Always reading tech blogs and documentation
+- 📚 **Bookworm**: Love reading fiction and thriller novels
+- 🎵 **Music Lover**: Coding with good music makes everything better
 
 ## 🎨 Random Dev Quote
 <div align="center">
